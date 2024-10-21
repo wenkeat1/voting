@@ -1,4 +1,4 @@
-# SMU Blockchain Dev assignemnt 1 - Wen Keat
+# SMU Blockchain Dev assignment 1 - Wen Keat
 This is a smart contract for a simple voting system for two candidates and here is the description of the code and how it works.
 The start of the voting contract is first to set up a structure to store data of the candidates - ID, name and votecount.
 Then use mappings to store voters(to ensure one vote per address) and candidates(predefined candidates).
